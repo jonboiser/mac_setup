@@ -1,5 +1,6 @@
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
+brew "svn"
 cask "font-cascadia-code"
 cask "font-cascadia-mono"
 cask "font-cousine"

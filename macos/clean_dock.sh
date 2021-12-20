@@ -17,9 +17,3 @@ dockutil --add '~/Downloads' --view fan --display stack --allhomes
 
 # Manual steps
 
-# - Uncheck "Show recent applications..." in dock preferences
-# - In System Preferences > Keyboard
-#    - Change Caps Lock to Escape
-#    - Set Key Repeat to Fast and Delay Until Repeat to Short
-#    - Use F keys as standard function keys
-#    - Turn off "Add period with double-space"
